@@ -1,0 +1,1 @@
+# teste-e2e-ebac de cadastro e login usando como massa de dados o faker.
